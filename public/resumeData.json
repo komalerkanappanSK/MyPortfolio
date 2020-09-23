@@ -1,0 +1,184 @@
+{
+  "main": {
+    "name": "Komaler Kanappan",
+    "occupation": "Fresh Graduate in Bsc Hons Computer Science from INTI College Penang",
+    "description": "Self learner && a quick learner and seeking an opportunity fitting my skills and knowledge and gives a great opportunity of learning and progressing",
+    "image": "me.jpg",
+    "bio": "My name is Komaler Kanappan, I'm a Recent graduate of Bsc Hons Computer Science with self starter and self learning , experience as a  Web Developer, Web Desinger, SCRUM methodology and seeking an opportunity fitting my skills and knowledge and gives a great opportunity of learning and progressing",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "komalerkanappan5964@gmail.com",
+    "phone": "+60 014 275 7093",
+    "address": {
+      "street": "No 12, Lorong 5 Taman Bukit Mas",
+      "country": "Malaysia",
+      "city": "Taiping",
+      "state": "Perak",
+      "zip": "34000"
+    },
+    "website": "https://skkomaler-portfolio.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1GDhudj3slBYVknw18IFDO_c8QPL0wutg/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100008535875636",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/komaler-kanappan-a2a41014b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/maler_96/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/komalerkanappanSK",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are my programming language skills",
+    "education": [
+      {
+        "school": "Bsc (HONS) in Computer Science , in Collaboration with Coventry University,UK",
+        "degree": "INTI International College Penang",
+        "graduated": "Graduated in August 2020",
+        "description": " "
+      },
+      {
+        "school": "Diploma in Information and Communication Technology",
+        "degree": "INTI International College Penang",
+        "graduated": "Graduated August 2018",
+        "description": " "
+      }
+    ],
+    "work": [
+      {
+        "company": "Sophic Automation Sdn.Bdh, (Internship)",
+        "title": "Web Developer && Web Designer",
+        "years": "Jan 2020 - Mar 2020",
+        "description": "Create and Redesign exiting company website && develop web based application system. Managed up to three projects at a time, Took part in the company's rebuilding and redesign website"
+      },
+      {
+        "company": "Kumon Bayan Baru Center",
+        "title": "Mathematics Teacher (Part Timer)",
+        "years": "Sept 2019 - Mar 2020",
+        "description": "Teach student mathematics in age between 3 - 12, Work under Adminstration , Observe student learning quality and improving them and Gives speacial care to speacial student in learning"
+      },
+      {
+        "company": "Majlis Perbandaran Taiping (MPT), (Internship)",
+        "title": "IT Technical Support",
+        "years": "Jan 2018 - Mar 2020",
+        "description": "Technical support in network , hardware and software && repair compputer hardwares.Repair computer hardware when damage, repair network problems : wifi , Photoshop to tickets and banners and posters, Took part in Adobe Photoshop and Illustrator 3 days seminar"
+      },
+      {
+        "company": "GFame Management Sdn.Bhd.",
+        "title": "Clerk",
+        "years": "Jan 2016 to Aug 2016",
+        "description": "I have gain experience what how to write a clear and consice documentation, I have also learn to learn quickly and progress rapidly from theoretical exercises to real world delivery and mentoring tasks.Also track and mentoring customer and agents account, audit and payment for insurance"
+      }
+    ],
+    "skills": [
+      {
+        "image": "react.png",
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "image": "js.png",
+        "name": "JavaScript",
+        "level": "65%"
+      },
+      {
+        "image": "css.png",
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "image": "html.png",
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "image": "git.png",
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "image": "c++.jpg",
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "image": "php.png",
+        "name": "PHP",
+        "level": "70%"
+      },
+      {
+        "image": "sql.jpg",
+        "name": "MySql",
+        "level": "70%"
+      },
+      {
+        "image": "nodejs.png",
+        "name": "Node.js",
+        "level": "30%"
+      },
+      {
+        "image": "db.jpg",
+        "name": "MongoDB",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ToDo App",
+        "category": "ToDo App built with ReactJS",
+        "image": "ToDo-app.jpg",
+        "url": "https://todo-app-cp-2b5fc.web.app/"
+      },
+      {
+        "title": "Facebook Messenger Clone",
+        "category": "Facebook Messenger Clone built with ReactJS",
+        "image": "fb-messenger-clone.jpg",
+        "url": "https://facebook-messenger-clone-b33fb.web.app/"
+      },
+      {
+        "title": "Instagram Clone",
+        "category": "Instagram Clone built with ReactJS",
+        "image": "instagram-clone.jpg",
+        "url": "https://instagram-clone-81061.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-clone-e751b.web.app"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "Amazon-clone.jpg",
+        "url": "https://aclonemazon.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You are hardworking, keep the spirits up and keep improving your skills.",
+        "user": "Dr.Lim Chea Yean ... Head of Department"
+      },
+      {
+        "text": "You are the unsung hero in a team and keep up your hardworking. ",
+        "user": "Mr.Tylor ... Internship Supervisor"
+      }
+    ]
+  }
+}
