@@ -35,7 +35,7 @@ header {
   height: 800px;
   min-height: 500px;
   width: 100%;
-  background: #161415 url(../images/background.jpg) no-repeat top center;
+  background: #161415 url(../images/8.jpg) no-repeat top center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
@@ -705,7 +705,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-  background: #1f1f1f url(../images/test-bg.jpg) no-repeat center center;
+  background: #1f1f1f url(../images/9.jpg) no-repeat center center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   background-attachment: fixed;
