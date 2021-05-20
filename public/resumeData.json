@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Komaler Kanappan",
-    "occupation": "Fresh Graduate in Bsc Hons Computer Science from INTI College Penang",
-    "description": "Self learner && a quick learner and seeking an opportunity fitting my skills and knowledge and gives a great opportunity of learning and progressing",
+    "occupation": "FrontEnd UI/UX Developer",
+    "description": "Having a great opportunity of learning and progressing",
     "image": "me.jpg",
-    "bio": "My name is Komaler Kanappan, I'm a Recent graduate of Bsc Hons Computer Science with self starter and self learning , experience as a  Web Developer, Web Desinger, SCRUM methodology and seeking an opportunity fitting my skills and knowledge and gives a great opportunity of learning and progressing",
+    "bio": "My name is Komaler Kanappan, I'm a FrontEnd UI/UX Developer.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "komalerkanappan5964@gmail.com",
     "phone": "+60 014 275 7093",
@@ -58,6 +58,12 @@
     ],
     "work": [
       {
+        "company": "Megan Jewellery Sdn.Bdh",
+        "title": "FrontEnd UI/UX Developer",
+        "years": "Jan 2021 - Present",
+        "description": "Create a full ecommance website in Reactjs."
+      },
+      {
         "company": "Sophic Automation Sdn.Bdh, (Internship)",
         "title": "Web Developer && Web Designer",
         "years": "Jan 2020 - Mar 2020",
@@ -86,7 +92,7 @@
       {
         "image": "react.png",
         "name": "ReactJs",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "image": "js.png",
